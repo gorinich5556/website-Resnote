@@ -85,8 +85,8 @@ h2 {
 
 @font-face {
   font-family: gotham;
-  src: url("../website-Resnote/fonts/gotham_pro_medium.eot");
-  src: local("☺"), url("../website-Resnote/fonts/gotham_pro_medium.woff") format("woff"), url("../website-Resnote/fonts/gotham_pro_medium.ttf") format("truetype"), url("../website-Resnote/fonts/gotham_pro_medium.svg") format("svg");
+  src: url("/../../website-Resnote/fonts/gotham_pro_medium.eot");
+  src: local("☺"), url("/../../website-Resnote/fonts/gotham_pro_medium.woff") format("woff"), url("/../../website-Resnote/fonts/gotham_pro_medium.ttf") format("truetype"), url("/../../website-Resnote/fonts/gotham_pro_medium.svg") format("svg");
   font-weight: normal;
   font-style: normal;
 }
